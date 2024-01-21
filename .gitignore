@@ -9,6 +9,10 @@
 *.so.*
 *.dll
 *.dylib
+.vs
+Build
+ProjectFiles/Intermediate
+ProjectFiles/x64
 
 # Qt-es
 object_script.*.Release
